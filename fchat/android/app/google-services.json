@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055236530343",
+    "project_id": "fchatn7",
+    "storage_bucket": "fchatn7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055236530343:android:827e70703382b3dbea3b82",
+        "android_client_info": {
+          "package_name": "com.example.fchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASWyTwXB8qYLzgtGayi5bKykZzmWlAj5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

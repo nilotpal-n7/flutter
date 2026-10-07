@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367105211203",
+    "project_id": "fauth-f4910",
+    "storage_bucket": "fauth-f4910.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367105211203:android:b85457d2c876a0b75e8df6",
+        "android_client_info": {
+          "package_name": "com.example.fauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAizFbaCXRfLjEEix5zwe134fc2BVrnYU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
